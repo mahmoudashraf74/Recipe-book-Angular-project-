@@ -10,7 +10,7 @@ Among the Angular 4 features that this project exhibits are:
 =>observables;
 =>forms (both template-driven and reactive);
 =>directives, components & databinding.
-
+------------------------------------------------
 This project was generated with Angular CLI version 
 
 ## Development server
