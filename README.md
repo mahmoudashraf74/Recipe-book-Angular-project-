@@ -3,13 +3,13 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 Among the Angular 4 features that this project exhibits are:
 
-authentication & route protection;
-HTTP request handling;
-services & dependency injection;
-routing;
-observables;
-forms (both template-driven and reactive);
-directives, components & databinding.
+=>authentication & route protection;
+=>HTTP request handling;
+=>services & dependency injection;
+=>routing;
+=>observables;
+=>forms (both template-driven and reactive);
+=>directives, components & databinding.
 
 This project was generated with Angular CLI version 
 
